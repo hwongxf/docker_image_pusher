@@ -1,2 +1,3 @@
 nocobase/nocobase:latest
 nocobase/nocobase:main
+hwong515/ubuntu-desktop
