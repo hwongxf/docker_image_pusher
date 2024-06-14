@@ -1,2 +1,2 @@
 nocobase/nocobase
-nocobase/nocobase:main
+
