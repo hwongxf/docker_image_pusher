@@ -1,3 +1,2 @@
-nocobase/nocobase:latest
-nocobase/nocobase:main
+nocobase/nocobase
 hwong515/ubuntu-desktop
