@@ -1,3 +1,4 @@
 nocobase/nocobase
 nocobase/nocobase:main
-nocobase/nocobase:v1.2.5-alpha
+nocobase/nocobase:1.2.5-alpha
+nocobase/nocobase:1.2.4-alpha
