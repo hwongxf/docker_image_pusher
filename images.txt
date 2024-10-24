@@ -3,3 +3,4 @@ nocobase/nocobase:main
 nocobase/nocobase:1.2.5-alpha
 nocobase/nocobase:1.2.4-alpha
 nocobase/nocobase:next
+nocodb/nocodb
